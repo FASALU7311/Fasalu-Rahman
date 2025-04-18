@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center"><b>Hello there, I'm Fasalu Rahman 👋</b></h1>
+<h1 align="center"><b>║▌█║ Hello there, I'm Fasalu Rahman ▌│║▌👋</b></h1>
 
 <h4 align="center"><i>"Turning ideas into reality through code and creativity."</i></h4>
 
@@ -33,14 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasalu7311&show_icons=true&locale=en&layout=compact" alt="fasalu7311" /></p>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&include_all_commits=true&theme=radical" width="60%" alt="Fasalu's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="37%" alt="Top Languages"/>
 
 ---
 
