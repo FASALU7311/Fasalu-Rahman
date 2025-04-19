@@ -6,10 +6,10 @@
 
 <p align="center">
 <a href="https://instagram.com/https://www.instagram.com/fasalu_furn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fasalu_furn/" height="30" width="40" /></a>
-  
  <a href="https://linkedin.com/in/www.linkedin.com/in/fasalu-rahman-01a922335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fasalu-rahman-01a922335" height="30" width="40" /></a>
- 
-  <a href="mailto:your.fasalurhn502@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:fasalurhn502@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-fasalurhn502@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a>
+<a href="https://kaggle.com/https://www.kaggle.com/fasalurhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/fasalurhn" height="30" width="40" /></a>
 </p>
 
 ---
