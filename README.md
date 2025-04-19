@@ -5,12 +5,8 @@
 <h4 align="center"><i>"Turning ideas into reality through code and creativity."</i></h4>
 
 <p align="center">
-  <img align="center" alt="visitors" src="https://gpvc.arturio.dev/your-github-username" />
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/fasalu_furn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="www.linkedin.com/in/fasalu-rahman-01a922335"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:your.fasalurhn502@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
