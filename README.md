@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/fasalu_furn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-  <a href="www.linkedin.com/in/fasalu-rahman-01a922335"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+ <a href="https://linkedin.com/in/www.linkedin.com/in/fasalu-rahman-01a922335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fasalu-rahman-01a922335" height="30" width="40" /></a>
   <a href="mailto:your.fasalurhn502@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
